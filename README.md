@@ -1,1 +1,3 @@
-  go install github.com/deepthinker42/go-dir-layout/cmd/go-dir-layout/go-dir-layout.go 
+git clone https://github.com/deepthinker42/go-dir-layout.git
+mv go-dir-layout your-project-name
+export GOPATH=$(pwd)/your-project-name
