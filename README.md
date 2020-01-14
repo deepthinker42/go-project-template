@@ -1,6 +1,6 @@
 - git clone https://github.com/deepthinker42/go-project-template.git
-- mv go-project-template <project>
-- export GOPATH=$(pwd)/<project>
+- mv go-project-template \<project>
+- export GOPATH=$(pwd)/\<project>
 
 
 # READMEs describing proper Go directory structure
