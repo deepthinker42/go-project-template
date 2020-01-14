@@ -1,9 +1,9 @@
-- git clone https://github.com/deepthinker42/go-dir-layout.git
-- mv go-dir-layout <project>
+- git clone https://github.com/deepthinker42/go-project-template.git
+- mv go-project-templatet <project>
 - export GOPATH=$(pwd)/<project>
 
 
-# READMEs
+# READMEs describing proper Go directory structure
 * [api](./src/api/README.md)
 * [assets](./src/assets/README.md)
 * [build](./src/build/README.md)
